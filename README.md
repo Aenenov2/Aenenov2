@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aeneno</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-
+git reset –hard [<README.md>] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
